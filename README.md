@@ -1,2 +1,4 @@
 # ChainLinkTravelsParcel
-A parcel booking app where goods from distant cities move through a chain of travel services. Like a relay, parcels hop from one operator to another until delivery. The project builds a seamless chain-based booking and tracking system for long-distance, bulky, or hard-to-ship items.
+A parcel booking and delivery application where goods from distant cities can be transported through a chain of multiple travel services. Just like a relay system, a parcel can hop from one travel operator to another until it reaches the destination. This project focuses on building a seamless chain-based parcel booking and tracking solution for long-distance, bulky, or hard-to-ship items.
+
+
