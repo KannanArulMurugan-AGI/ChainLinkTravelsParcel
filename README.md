@@ -74,5 +74,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-👉 இதை இன்னும் **short/simple** (like early project draft) மாதிரி எழுதட்டுமா, இல்ல **professional detailed** (above style) தான் வேண்டுமா?
+
 ```
